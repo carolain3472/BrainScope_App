@@ -6,7 +6,7 @@ Para ejecutar la aplicación primero se debe clonar el repositorio y dentro de l
 Prrimero debe instalarse el ambiente con: pip install venv
 
 <ul>
-<li>py -m venv envApp</li>
+<li>python -m venv envApp</li>
 <li>envApp/Scripts/activate</li>
 </ul>
 
