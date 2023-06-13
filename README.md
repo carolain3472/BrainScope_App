@@ -1,14 +1,16 @@
-# SegApp
+
+# BrainScope_App
 
 
-Para ejecutar la aplicación primero debes clonar el repositorio y dentro de la carpeta que se crea debes crear un nuevo ambiente de python
+Para ejecutar la aplicación primero se debe clonar el repositorio y dentro de la carpeta que se crea debe crear un nuevo ambiente de python
+Prrimero debe instalarse el ambiente con: pip install venv
 
 <ul>
-<li>py -m venv segAppEnv</li>
-<li>segAppEnv/Scripts/activate</li>
+<li>py -m venv envApp</li>
+<li>envApp/Scripts/activate</li>
 </ul>
 
-instala las siguientes dependencias
+Y se deben instalar estas siguientes dependencias:
 
 <ul>
 <li>pip install streamlit</li>
@@ -26,5 +28,3 @@ Seguido de esto para ejecutar el proyecto:
 </ul>
 
 Y finalmente, ingresamos a la URL: http://localhost:8501/ para visualizar la interfaz
-# BrainScope
-# BrainScope_App
